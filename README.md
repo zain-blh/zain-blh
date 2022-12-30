@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zain_blh</h1>
+<h1 align="center">Hi 👋, I'm Zain ul Abdin</h1>
 <h3 align="center">A passionate Full stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-blh&label=Profile%20views&color=0e75b6&style=flat" alt="zain-blh" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Thrift Fashion Website**
 
-- 🌱 I’m currently learning **larawel**
+- 🌱 I’m currently learning **React js**
 
 - 👯 I’m looking to collaborate on **Web Application**
 
